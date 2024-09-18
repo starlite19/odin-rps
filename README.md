@@ -1,5 +1,5 @@
 # odin-rps
-Building a rock paper scissors game using HTML and CSS and Javascript.
+Building a rock paper scissors game using HTML and Javascript.
 Project is deployed at https://starlite19.github.io/odin-rps/
 
 This project focuses more on the basics of Javascript instead of UI features such as:
